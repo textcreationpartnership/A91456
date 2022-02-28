@@ -1,0 +1,291 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Parliaments nevv and perfect catechisme. Fit and necessary to be known and practised by every old Christian and loyall subiect.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91456</idno>
+            <idno type="STC">Wing P518</idno>
+            <idno type="STC">Thomason 669.f.11[87]</idno>
+            <idno type="STC">ESTC R210657</idno>
+            <idno type="EEBO-CITATION">99869434</idno>
+            <idno type="PROQUEST">99869434</idno>
+            <idno type="VID">162739</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91456)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162739)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f11[87])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Parliaments nevv and perfect catechisme. Fit and necessary to be known and practised by every old Christian and loyall subiect.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the yeare, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire on Parliament.</note>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 24.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Humor --  Early works to 1800.</term>
+               <term>Catechisms, English --  Humor --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-07</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:162739:1" rendition="simple:additions"/>
+            <head>THE
+PARLIAMENTS
+NEVV AND PERFECT
+CATECHISME.</head>
+            <head>Fit and neceſſary to be known and practiſed by every old Chriſtian and loyall Subiect.</head>
+            <p>Queſt. WHat is your name?</p>
+            <p>Anſw. Reformation—<hi>A bleſſed one.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi> Who gave you that name?</p>
+            <p>Anſw. <hi>The Parliament.</hi> A bleſſed one.</p>
+            <p>
+               <hi>Queſt.</hi> What did the parliament then for you?</p>
+            <p>
+               <hi>Anſ.</hi> They did promiſe and vow three things in my name. Firſt, to
+maintaine the true, Ancient, Catholick, and Apoſtolicke Religion.
+Secondly, to defend his Majeſties Royall Perſon in his juſt Preroga<g ref="char:EOLhyphen"/>tives.
+Thirdly, to preſerve the Priviledges of Parliament, and the li<g ref="char:EOLhyphen"/>berty
+of the Subject.</p>
+            <p>
+               <hi>Queſt.</hi> Doſt not thou thinke that thou art bound to beleeve and the Par<g ref="char:EOLhyphen"/>liament
+to doe as they have promiſed for thee?</p>
+            <p>
+               <hi>Anſw.</hi> Yes verily, charity obligeth me to beleive no Parliament
+can be ſo damn'd, as to take an oath, with intention and reſolution to
+breake it, and make the Covenant a very ſtalking horſe to all their
+deſignes, blinding the People with ſpecious pretences only.</p>
+            <p>
+               <hi>Queſt.</hi> Hath the Parliament truly and faithfully kept their Cove<g ref="char:EOLhyphen"/>nant?</p>
+            <p>
+               <hi>Anſw.</hi> No verily, but violated every particular branch thereof.</p>
+            <p>
+               <hi>Queſt.</hi> What texts have you to prove that?</p>
+            <p>
+               <hi>Anſw.</hi> Their ſeverall apocriphall orders, and ordinances extant,
+which at pleaſure they vote, and unvote, doe, and undoe as they ſee
+occaſion to the neceſſitating and undoing of us all.</p>
+            <p>
+               <hi>Queſt.</hi> Is not the true Religion eſtabliſhed and maintained according to
+the beſt reformed Churches of Chriſtendome?</p>
+            <p>
+               <hi>Anſ.</hi> No indeed, but the beſt Reformed Church of Chriſtendom is
+deformed, by irreverently forcing her to conforme to the Doctrine
+and Diſcipline of the Kirke of <hi>Scotland.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi> Doſt thou not believe thou art bound by the Covenant, ſtedfaſtly to
+labour and earneſtly endeavour the ſetling of Presbyterie in this King<g ref="char:EOLhyphen"/>dome?</p>
+            <p>
+               <hi>Anſ.</hi> Truly no, but rather to deſtroy all poſſible hopes of it, and the
+very covenant it ſelfe: which is impoſſible to keep, for if the Scottiſh
+Presbiterie be allowed to be the beſt, and we confirme, and eſtabliſh
+that forme of Government we confound the ſecond Article, which is
+to preſerve the King in his juſt Prerogatives. Monarchie (his due) and
+Presbiterie being incompatiable, and altogether inconſiſtent, nor can
+the libertie of the Subiect be at all maintained, where an uſurping
+power challengeth the priviledge to exerciſe Tyrannie over the very
+conſciences of freeborn Subjects.</p>
+            <p>
+               <hi>Queſt.</hi> Is not the King defended in his royall Perſon, and his juſt Pre<g ref="char:EOLhyphen"/>rogatives?</p>
+            <p>
+               <hi>Anſw.</hi> Yes indeed, as well as Colonell <hi>Whallyes</hi> Regiment
+can defend him, and of his juſt Prerogatives as yet, he enjoyes juſt
+nothing.</p>
+            <p>
+               <hi>Queſt.</hi> How is the condition of the King then good or bad?</p>
+            <p>
+               <hi>Anſ.</hi> The Kings own conditions are extreamly good, but he ſtands
+in a very bad condition, being in the nature and extremitie of a Pri<g ref="char:EOLhyphen"/>ſoner.</p>
+            <p>
+               <hi>Queſt.</hi> Is the King a Priſoner;</p>
+            <p>
+               <hi>Anſ.</hi> Certainly not ſo free as he ought to be, amongſt thoſe many
+high, and juſt Prerogatives of a King, he enjoyes not the liberty of a
+Subject to goe where he pleaſeth.</p>
+            <p>
+               <hi>Queſt.</hi> How is the priviledge of Parliament and Liberty of the Subject
+maintained?</p>
+            <p>
+               <hi>A</hi> The priviledge of Parliament, hath confounded the Libertie of
+the Subject, and the liberty of the Subject, deſtroyed the Priviledge of
+Parliament.</p>
+            <p>
+               <hi>Queſt.</hi> Is it not then a free Parliament?</p>
+            <p>
+               <hi>A.</hi> The parliament is free enough to give to themſelves what they
+take from us, but no free Parliament.</p>
+            <p>
+               <hi>Q.</hi> Is it not very juſt and reaſonable, that this preſent Parliament ſhould
+be diſſolved?</p>
+            <p>
+               <hi>A.</hi> No expectation of peace and happineſſe without the diſſolution
+of this moſt diſſolute Parliament, and it ſhould be the deſire and reſo<g ref="char:EOLhyphen"/>lution
+of the whole Kingdome, to free it ſelfe from the tyrannie and
+oppreſſion it ſuffers, and the feare, otherwiſe of an evitable ſecond war,
+&amp;c. The Houſes conſiſting of two ſeverall irreconcileable Factions;
+the weaker and opreſſed will be alwayes plotting and practiſing to
+maintaine and ſupport their reputation in the Country, which ſhall
+ever be preſerved in their ancient ignorance, to their own undoing
+and confuſion.</p>
+            <p>
+               <hi>Q.</hi> What hopes have you, that the Army according to promiſe, and juſt ex<g ref="char:EOLhyphen"/>pectation
+will diſſolve this Parliament.</p>
+            <p>
+               <hi>A.</hi> Truly little, for now, that Partie prevailing in the Houſe, the
+Army hath an Authoritie and Vote to countenance all their Actions,
+which otherwiſe might have been queſtioned; So they will preſerve
+mutually each other, to the deſtruction of us all.</p>
+            <p>
+               <hi>Q.</hi> What neceſſity is there for the Synod to ſit longer?</p>
+            <p>
+               <hi>A.</hi> None, for if Libertie of Conſcience be allowed; there will be no
+uſe of forme or priſcription for Church Diſciplince.</p>
+            <p>
+               <hi>Q</hi> Why are they not diſmiſſed, without further trouble to themſelves and us?</p>
+            <p>
+               <hi>A.</hi> There is a myſterie, in that they ſerve for better uſe to the Par<g ref="char:EOLhyphen"/>liament.
+The Synod hath in Sequeſtration Church livings, to the va<g ref="char:EOLhyphen"/>lue
+of ſix hundred thouſand pounds yearly comming in. The Parlia<g ref="char:EOLhyphen"/>as
+much otherwiſe; they are well contented to devide the ſpoyle. The
+Parliament borrowes conſcience from the Synod, the Synod derives
+law from the Parliament.</p>
+            <p>
+               <hi>Q.</hi> Will the long deluded People endure this long, which conduceth not to
+the good, but ruine of the King and Kingdome?</p>
+            <p>
+               <hi>A.</hi> Certainly no, nor can it be long ſafe for thoſe, that thus impri<g ref="char:EOLhyphen"/>ſon,
+and enthrall the King, captive and enſlave the Kingdome, that
+will not be longer ſubject to the uſurpation and controlement of fel<g ref="char:EOLhyphen"/>low
+Subiects.</p>
+            <p>
+               <hi>Q</hi> You ſpeake as if there were a probabillitie of reſiſtance, if they ſhould
+maligne the King, or infeſt the Subiect. What power could any obtaine to op<g ref="char:EOLhyphen"/>poſe
+and impede their deſignes, they having poſeſt themſelves, of that ever fa<g ref="char:EOLhyphen"/>mous,
+and memorable City of <hi>London,</hi> the Navy at Sea, and maintaining a
+powerfull Army at Land?</p>
+            <p>
+               <hi>A.</hi> The eyes of the whole Kingdome, are intent and fixt on the
+King, and looke upon him, as the only uniuſtly ſuffering and injured
+Partie, crucified between to Factions. The Army by not executing
+their pretences, and not perfecting their promiſes, hath contracted a
+generall hate; and by delaying the Kingdomes peace, and welfare
+(which depends altogether on the Kings happineſſe and ſafety) are
+grown burthenſome and intollerable, ſo that their continued ſufferings
+will force them to ſhake off their tameneſſe, and rouze up thoughts
+thirſty of revenge.</p>
+            <p>
+               <hi>Q.</hi> If the Army have good intentions, as they have plauceable pretences,
+what meanes this cruell delay? why is not the King ſetled, Priſoners of warre
+releaſed, the Parliament diſſolved; and the Army disbanded?</p>
+            <p>A. Their tedious delayings, draw their intentions into a ſuſpect of
+being ill, that they meerly purſue deſignes of their own intereſts, with<g ref="char:EOLhyphen"/>out
+reflecting on the great concernment of King and Kingdome, that by their flow motion they gaine the advantage of reducing the whole
+Kingdome, under the power and command of the Army, which they
+will never be able to compaſſe, for if they reflect on their preſent ſtate
+there is a diviſion in their Army (as well as in the Houſes of Parlia<g ref="char:EOLhyphen"/>ment)
+which cannot be cemented but in the King, the proper Center
+where we muſt meet and agree in.</p>
+            <p>Q. What is the beſt and readieſt way to procure and eſtabliſh our conſtant
+durable Peace and happineſſe?</p>
+            <p>A. The moſt Certaine and infallible way is to referre all to his Sacred
+Maieſtie, offer him innocent and ſpotleſſe hearts, white and nnblotted
+Paper. He writes a faire hand, let him imprint his own conditions, and
+that is the way to perpetute our bliſſe, ye doe violence on his modeſtie
+far, but doing our dutie, would ſo overcome him, that he would not
+aske ſo much as we ought, and ſhould moſt chearfully ſubmit to him.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed in the Yeare, 1647.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
